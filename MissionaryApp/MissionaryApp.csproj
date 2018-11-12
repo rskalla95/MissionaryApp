@@ -105,9 +105,14 @@
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="Content\Site.css" />
     <Content Include="Global.asax" />
+    <Content Include="Images\angelica.jpg" />
+    <Content Include="Images\annie.jpg" />
+    <Content Include="Images\bg.jpg" />
+    <Content Include="Images\jared.jpg" />
     <Content Include="Images\mexicoTampico.jpg" />
     <Content Include="Images\peruTrujillo.jpg" />
     <Content Include="Images\russiaNovo.jpg" />
+    <Content Include="Images\ryan.jpg" />
     <Content Include="Scripts\bootstrap.bundle.js" />
     <Content Include="Scripts\bootstrap.bundle.min.js" />
     <Content Include="Scripts\bootstrap.js" />
