@@ -113,7 +113,16 @@
     <Content Include="Images\mexicoTampico.jpg" />
     <Content Include="Images\peruTrujillo.jpg" />
     <Content Include="Images\russiaNovo.jpg" />
-    <Content Include="Images\saltlaketemple.jpg" />
+    <Content Include="Images\saltlaketemple.jpg" /
+    <Content Include="Images\angelica.jpg" />
+    <Content Include="Images\annie.jpg" />
+    <Content Include="Images\bg.jpg" />
+    <Content Include="Images\jared.jpg" />
+    <Content Include="Images\logo.png" />
+    <Content Include="Images\mexicoTampico.jpg" />
+    <Content Include="Images\peruTrujillo.jpg" />
+    <Content Include="Images\russiaNovo.jpg" />
+    <Content Include="Images\ryan.jpg" />
     <Content Include="Scripts\bootstrap.bundle.js" />
     <Content Include="Scripts\bootstrap.bundle.min.js" />
     <Content Include="Scripts\bootstrap.js" />

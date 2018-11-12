@@ -16,7 +16,7 @@ textarea {
     max-width: 280px;
 }
 
-* {
+{
     box-sizing: border-box;
 }
 
@@ -53,4 +53,14 @@ textarea {
     justify-content: center;
     height: 300px;
     text-align: center;
+  
+.jumbotronCenter {
+    text-align: center;
+}
+
+.bg {
+    background: linear-gradient(rgba(110,92,45,.2), rgba(110,92,45,.5)), url(../Images/bg.jpg);
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
 }
