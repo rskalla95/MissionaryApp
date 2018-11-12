@@ -105,6 +105,15 @@
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="Content\Site.css" />
     <Content Include="Global.asax" />
+    <Content Include="Images\braziltemple.jpg" />
+    <Content Include="Images\canadatemple.jpg" />
+    <Content Include="Images\ghanatemple.jpg" />
+    <Content Include="Images\japantemple.jpg" />
+    <Content Include="Images\londontemple.jpg" />
+    <Content Include="Images\mexicoTampico.jpg" />
+    <Content Include="Images\peruTrujillo.jpg" />
+    <Content Include="Images\russiaNovo.jpg" />
+    <Content Include="Images\saltlaketemple.jpg" /
     <Content Include="Images\angelica.jpg" />
     <Content Include="Images\annie.jpg" />
     <Content Include="Images\bg.jpg" />
