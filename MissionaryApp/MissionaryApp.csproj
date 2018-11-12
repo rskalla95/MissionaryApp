@@ -109,6 +109,7 @@
     <Content Include="Images\annie.jpg" />
     <Content Include="Images\bg.jpg" />
     <Content Include="Images\jared.jpg" />
+    <Content Include="Images\logo.png" />
     <Content Include="Images\mexicoTampico.jpg" />
     <Content Include="Images\peruTrujillo.jpg" />
     <Content Include="Images\russiaNovo.jpg" />
